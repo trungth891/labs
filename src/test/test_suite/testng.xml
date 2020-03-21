@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="project_lab">
+    <test name="first test">
+        <classes>
+            <class name="pkg_one.open_google_search" />
+        </classes>
+    </test>
+</suite>
